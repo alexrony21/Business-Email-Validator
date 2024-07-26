@@ -2,7 +2,7 @@
 
 ## Features
 1. **Basic Email Validation**
-2. **Free Email Provider Check**
+2. **Free Email Provider Check If Email is Free Email**
 3. **Bounce Check**
 4. **Deliverable Check**
 
